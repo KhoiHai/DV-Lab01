@@ -2,3 +2,4 @@ venv/
 Data/
 shopee_user_data
 __pycache__
+*.pbix
